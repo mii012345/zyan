@@ -1,3 +1,3 @@
 <head>
-    <h1>MA-ZYAN</h2>
+    <h1>MA-ZYAN</h1>
 </head>
